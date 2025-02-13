@@ -1,7 +1,7 @@
 
 __all__ = ['plan', 'text_one']
 
-plan = 5
+plan = 4
 
 text_one = [
     "Hello Worldd!",
